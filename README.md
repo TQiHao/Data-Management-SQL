@@ -1,7 +1,7 @@
 # Data-Management-SQL
-# Data Management & Security - Assignment 2
+# Data Management & Security
 
-SQL database implementation and query design assignment for CSIT115, focusing on database creation, modification, and complex query operations.
+SQL database implementation and query design, focusing on database creation, modification, and complex query operations.
 
 ## Assignment Details
 - **Focus**: SQL Database Implementation & Query Design
